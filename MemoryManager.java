@@ -8,7 +8,6 @@ import java.util.List;
 import java.util.Map;
 
 public class MemoryManager {
-    //sri.kunal@super.money, 9572380219
     private int totalBlocks;
     private List<MemoryBlock> freeMemory;
     private List<Process> processes;
